@@ -1,0 +1,76 @@
+Project Title:
+Farmwise: Agricultural Reporting & Data Analytics Platform
+
+Click on the below link to view the project repository:(Insert your GitHub Link Here: https://github.com/andrashanmukhavinay-hub/Farmwise)
+
+Project Description:
+This project involves the development of a centralized web-based reporting system designed to manage and analyze agricultural data. By utilizing a local server environment, the platform enables efficient tracking of farming resources, crop cycles, and inventory. The system focuses on transforming raw agricultural entries into structured data to improve farm management and productivity. The objectives of this project include:
+
+Centralized Data Management:
+Building a robust relational database to store and organize multi-table agricultural data, including crop details, farmer information, and resource allocation.
+
+Dynamic Reporting:
+Developing a custom backend to generate real-time reports and summaries, allowing for better tracking of agricultural performance and resource consumption.
+
+Local Server Deployment:
+Configuring and managing a localized development environment to ensure high availability and speed for data entry and retrieval tasks.
+
+Pre-requisites:
+Before starting this project, you should have the following knowledge and tools in place:
+
+Backend Development (PHP):
+o Understanding of Core PHP for server-side logic, session management, and handling form data.
+o Experience in connecting web applications to databases using PDO or MySQLi.
+
+Relational Database Management (MySQL):
+o Knowledge of designing relational schemas, writing optimized SQL queries, and maintaining data integrity.
+o Familiarity with CRUD operations (Create, Read, Update, Delete).
+
+Frontend Basics:
+o Basic knowledge of HTML, CSS, and JavaScript to build a user-friendly interface for data entry and report viewing.
+
+Local Server Management:
+o Experience using XAMPP or WAMP to manage Apache and MySQL services locally for testing and deployment.
+
+Key Steps and Implementation:
+
+System Architecture & Environment Setup:
+
+XAMPP Configuration:
+o Configured a local Apache web server and MySQL database via XAMPP to host the application.
+o Managed local port configurations to ensure seamless access to the localhost environment.
+
+Database Design and Development:
+2. Normalized Database Schema:
+o Designed and implemented a MySQL database with a focus on normalization to minimize data redundancy.
+o Key tables were developed to handle farmer profiles, crop inventories, and financial transactions.
+
+Application Logic:
+3. Core PHP Development:
+o Developed the application backend using Core PHP to process agricultural inputs and generate dynamic results.
+o Implemented error-handling scripts and database connection modules to ensure system stability during data processing.
+
+Analysis and Reporting:
+4. Data Retrieval and Analytics:
+o Built SQL-based reporting modules to aggregate data, identifying trends in crop yields and resource usage.
+o Created interactive dashboards within the PHP application to present key metrics to the user.
+
+Tools and Technologies Used:
+• PHP: Primary server-side language used for application logic and database interaction.
+• MySQL: Relational database engine used for structured data storage and complex querying.
+• XAMPP: Local development environment used to run Apache and MySQL services.
+• HTML/CSS: Used to design the user interface and the layout for agricultural reports.
+
+Key Deliverables:
+
+Functional Agricultural Database:
+o A structured and searchable repository for all farm-related data points.
+
+Automated Reporting System:
+o A feature-rich PHP application that generates instant summaries of farm performance and resource status.
+
+Secure Local Deployment:
+o A fully tested localized software stack ready for administrative farm management.
+
+Impact:
+The Farmwise project provides a reliable, cost-effective solution for farmers and agricultural managers to move away from manual record-keeping toward digital data management. By providing real-time insights into crop and resource data through a localized PHP/MySQL environment, the platform supports better decision-making, inventory optimization, and long-term agricultural planning.
